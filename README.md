@@ -1,3 +1,3 @@
-# flutter_game
+# solitaire_game
 
-A new Flutter project.
+A new Solitaire Game.
