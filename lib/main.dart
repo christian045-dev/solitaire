@@ -1,6 +1,6 @@
 import 'package:flame/game.dart';
 import 'package:flutter/widgets.dart';
-import 'solitaire_game.dart';
+import 'solitaire.dart';
 
 void main() {
   final game = Solitaire();
